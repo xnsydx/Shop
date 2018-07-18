@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/itheima/dao/ProductDao.java=UTF-8
+encoding//src/com/itheima/service/ProductService.java=UTF-8
+encoding//src/com/itheima/service/impl/ProductServiceImpl.java=UTF-8
+encoding//src/com/itheima/utils/MailUtils.java=UTF-8
+encoding//src/com/itheima/web/servlet/CheckUsernameServlet.java=UTF-8

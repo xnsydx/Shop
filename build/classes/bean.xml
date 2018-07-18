@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<!-- 配置文件 -->
+	<bean id="adminService" class="com.itheima.service.impl.AdminServiceImpl"></bean>
+	<bean id="productService" class="com.itheima.service.impl.ProductServiceImpl"></bean>
+	<bean id="userService" class="com.itheima.service.impl.UserServiceImpl"></bean>
+
+</beans>
